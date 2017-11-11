@@ -1,4 +1,4 @@
-This project has been created by Sudhir Pathak on 12th November 2017
+This project has been created by Sudhir Pathak on 13th November 2017
 
 Data Science Capstone Project: A Text Prediction Algorithm built with the SwiftKey Dataset
 This README file describes the algorithm and all files necessary to satisfy the shinyApps requirement for the Data Science Capstone final project.
